@@ -8,7 +8,7 @@ import random
 import time
 from fake_useragent import UserAgent
 
-TOKEN = "YOUR_DISCORD_BOT_TOKEN"  # ⬅️ ใส่ Discord Bot Token คุณตรงนี้
+TOKEN = "MTQ0NzI1MDE4OTc4MDkxMDIxMQ.GbRLug.GhK3y5oQ1BotBkU4E57yKZX5pD8ccuGyYqkeQo"  # ⬅️ ใส่ Discord Bot Token คุณตรงนี้
 
 ua = UserAgent()
 
