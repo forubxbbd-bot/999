@@ -9,7 +9,7 @@ import time
 from fake_useragent import UserAgent
 import asyncio
 
-TOKEN = "YOUR_DISCORD_BOT_TOKEN"  # <--- เปลี่ยนตรงนี้
+TOKEN = "MTQ0NzI1MDE4OTc4MDkxMDIxMQ.GfIu1A.M-GEKoZgqcvcyj-tq4OnwuWr-jYu6cXVGgqUDY"  # <--- เปลี่ยนตรงนี้
 
 ua = UserAgent()
 
